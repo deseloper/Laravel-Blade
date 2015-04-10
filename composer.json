@@ -1,7 +1,6 @@
 {
-    "name": "deseloper/Laravel-Blade",
+    "name": "deseloper/laravel-blade",
     "description": "Use the simple and yet powerful Laravel Blade templating engine as a standalone component.",
-    "version": "3.0",
     "keywords": ["laravel", "blade"],
     "license": "MIT",
     "authors": [
