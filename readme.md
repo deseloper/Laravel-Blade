@@ -3,6 +3,12 @@ The package can be installed via Composer by requiring the "deseloper/laravel-bl
 
 ```json
 [
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/deseloper/laravel-blade"
+        }
+    ],
 	"require": {
 	    "deseloper/laravel-blade": "*"
 	}
