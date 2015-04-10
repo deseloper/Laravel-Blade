@@ -1,10 +1,10 @@
 ### Installation
-The package can be installed via Composer by requiring the "philo/laravel-blade": "2.0" package in your project's composer.json.
+The package can be installed via Composer by requiring the "deseloper/laravel-blade": "*" package in your project's composer.json.
 
 ```json
 [
 	"require": {
-	    "philo/laravel-blade": "2.*"
+	    "deseloper/laravel-blade": "*"
 	}
 ]
 ```
@@ -37,5 +37,5 @@ $blade = new Blade($views, $cache);
 echo $blade->view()->make('hello');
 ```
 
-You can use all blade features as described in the Laravel 4 documentation:
+You can use all blade features as described in the Laravel 5 documentation:
 http://laravel.com/docs/templates#blade-templating
